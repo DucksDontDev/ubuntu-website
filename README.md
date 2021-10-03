@@ -26,7 +26,7 @@ Open index.html and start to use the website
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/AntiNord/nord.fail/blob/main/LICENSE) file for details
 
 ## Extra
 Readme.md slightly stolen from [Nouridio](https://github.com/Nouridio)<br>
