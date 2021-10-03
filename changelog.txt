@@ -1,0 +1,7 @@
+nord.fail - Changelog
+
+#######################
+BETA 1 (04/10/2021)
+#######################
+Added index.html & main.css
+Fixed Blinker
