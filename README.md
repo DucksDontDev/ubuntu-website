@@ -28,4 +28,6 @@ Open index.html and start to use the website
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-Readme.md slightly stolen from [Nouridio](https://github.com/Nouridio)
+## Extra
+Readme.md slightly stolen from [Nouridio](https://github.com/Nouridio)<br>
+Based of nordvpnsucks.info (can be found on archive.org, alternatively [here](https://web.archive.org/web/20210907230929/https://www.nordvpnsucks.info/)
