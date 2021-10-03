@@ -29,5 +29,5 @@ Open index.html and start to use the website
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/AntiNord/nord.fail/blob/main/LICENSE) file for details
 
 ## Extra
-Readme.md based from from [Nouridio](https://github.com/Nouridio)<br>
+Readme.md inspired from [Nouridio](https://github.com/Nouridio)<br>
 Based of nordvpnsucks.info (can be found on archive.org, alternatively [here](https://web.archive.org/web/20210907230929/https://www.nordvpnsucks.info/))
