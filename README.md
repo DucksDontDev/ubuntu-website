@@ -21,17 +21,8 @@ Open index.html and start to use the website
 
 ### Changelog
 
-BETA 1 (04/10/2021)
+can be found [here]()
 
-Added:
-- index.html
-- main.css
-
-Fixed:
-- Blinker
-
-Changed:
-- Nothing
 
 ## Authors
 
