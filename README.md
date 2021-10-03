@@ -21,7 +21,7 @@ Open index.html and start to use the website
 ## Authors
 
 [Voodoo](https://github.com/AntiNord)<br>
-James
+[James](https://github.com/httpjamesm)
 
 ## License
 
