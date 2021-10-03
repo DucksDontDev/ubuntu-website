@@ -30,4 +30,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Extra
 Readme.md slightly stolen from [Nouridio](https://github.com/Nouridio)<br>
-Based of nordvpnsucks.info (can be found on archive.org, alternatively [here](https://web.archive.org/web/20210907230929/https://www.nordvpnsucks.info/)
+Based of nordvpnsucks.info (can be found on archive.org, alternatively [here](https://web.archive.org/web/20210907230929/https://www.nordvpnsucks.info/))
