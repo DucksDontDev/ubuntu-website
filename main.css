@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
 body {
-    margin: 0;
+        margin: 0;
 	padding: 20px;
 	color: #ffffff;
-    background-color: #2F0923;
+        background-color: #2F0923;
 	font-size: 14px;
 	line-height: 22px;
 	max-width: 5000px;
-    font-family: 'Ubuntu Mono', monospace
+        font-family: 'Ubuntu Mono', monospace
 }
 
 a {
