@@ -21,7 +21,7 @@ Open index.html and start to use the website
 
 ### Changelog
 
-The full changelog can be found [here]()
+The full changelog can be found [here](https://github.com/AntiNord/nord.fail/blob/main/changelog.txt)
 
 
 ## Authors
