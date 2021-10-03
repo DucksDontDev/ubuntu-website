@@ -1,7 +1,7 @@
 # nord.fail source code
 The entire source code of our website (may contain non needed items)
 
-Ubuntu Terminal themed website with good UI design for linux lovers, designed with pure html & css, using ubuntu mono font.
+Ubuntu Terminal themed website with good UI design for linux lovers, designed with standalone html & css, using ubuntu mono font.
 
 ![current website](https://i.ibb.co/v4CYCjk/website.png)
 
