@@ -1,5 +1,5 @@
-# nord.fail source code
-The entire source code of our website (may contain non needed items)
+# ubuntu themed website
+A website designed to look like the ubuntu terminal, made for nord.fail
 
 Ubuntu Terminal themed website with good UI design for linux lovers, designed with standalone html & css, using ubuntu mono font.
 
@@ -26,7 +26,7 @@ The full changelog can be found [here](https://github.com/AntiNord/nord.fail/blo
 
 ## Authors
 
-[Voodoo](https://github.com/AntiNord)<br>
+[Lé Quack](https://github.com/DucksDontDev)<br>
 [James](https://github.com/httpjamesm)
 
 ## License
